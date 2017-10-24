@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\myprogressdialog.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\myprogressdialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_e__challan.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\spot_challan.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_toast.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\cust_toast.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\cust_pen_challans.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\cust_pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pen_challans.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\pen_challans.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_releaseversion.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_releaseversion.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\generate_dd.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\generate_dd.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_minor.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_minor.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\reports.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_dropdown_item.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_pin_pad.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_get_pin_pad.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\version_details.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\version_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_extra_passengers.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_extra_passengers.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dynamic_violations.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\dynamic_violations.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__response__print.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_dd__response__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings__old.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_settings__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad__list.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_pin_pad__list.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_response.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\drunk_drive_response.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paired_devices.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_paired_devices.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pending_challans_details.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\pending_challans_details.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\blutooth_list_devices.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\blutooth_list_devices.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special_drive.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_special_drive.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_respone__print.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_respone__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_two.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\drunk_drive_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\email_mobile_no.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\email_mobile_no.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunk_drive_three.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\drunk_drive_three.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar__update__print.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_aadhaar__update__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\pinpad_list_item_device.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\pinpad_list_item_device.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dashboard__old.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_dashboard__old.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pin_pad_list.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_pin_pad_list.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_pc.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\dashboard_pc.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__settings.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_offline__settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_challan_two.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\spot_challan_two.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\ip_setting.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\ip_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\list_item_device.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\spot_response.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\spot_response.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\duplicateprint.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\duplicateprint.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\drunkdrive.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp_input.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_otp_input.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_of_birth__update.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_date_of_birth__update.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\fake_no_alert.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\fake_no_alert.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_e__challan__reports.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_e__challan__reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_popup_details.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_popup_details.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_special__drive.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_special__drive.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline__generate_case.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_offline__generate_case.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dd__print.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_dd__print.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\custom_progress_dialog.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\vhcle_hstry_pchallans.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\vhcle_hstry_pchallans.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\settings.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_dashboard.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_offline_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\apk_progressbar.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\apk_progressbar.xml"
+    },
+    {
+        "merged": "D:\\Android-Test\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_aadhaar_update.xml",
+        "source": "D:\\Android-Test\\StickeringHYD\\res\\layout\\activity_aadhaar_update.xml"
+    },
+    {
+        "merged": "D:\\Android\\StickeringHYD\\build\\intermediates\\res\\merged\\debug\\layout\\drunkdrive.xml",
+        "source": "D:\\Android\\StickeringHYD\\res\\layout\\drunkdrive.xml"
+    }
+]
